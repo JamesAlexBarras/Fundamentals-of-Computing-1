@@ -1,0 +1,7 @@
+This project centered around class hierarchy and 
+the way different classes interact with one another in a hierarchy. 
+This included an abstract "CloudStorage" class that all of the other 
+classes in the project extend. These other classes also included methods 
+that interacted with their parent classes and demonstrated the various 
+aspects of hierarchies. Test files and methods were also used for all of 
+these classes.
