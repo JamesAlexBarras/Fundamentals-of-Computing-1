@@ -1,0 +1,8 @@
+The purpose of this project was to learn the basics of 
+arraylists and to implement a switch statement. The switch statment 
+is used with a user interface in which the user is prompted for a 
+command from the given selection of commands, then the switch runs 
+the desired command. The project also introduces the fundamentals of 
+arraylists by implementing various methods relating to them such as a 
+size method, methods concerning the elements of each object in the list, 
+methods for adding and deleting objects from the list, and a find method.
