@@ -1,0 +1,7 @@
+This project was a combination of a lot of aspects of previous projects. 
+The main thing was a list of cloud storage objects that were read in from
+a data file. These objects could be of any of the cloud types from the 
+previous project, so a switch statement was needed to create the appropriate 
+object. A custom comparator was also required to compare elements of cloud 
+storage objects. There are also other methods 
+pertaining to the list of cloud storage objects created from the data file.
